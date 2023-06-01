@@ -1,2 +1,2 @@
 # da
-hecho el 1 de junio para aprender
+hecho el 1 de junio con los cambios echos
